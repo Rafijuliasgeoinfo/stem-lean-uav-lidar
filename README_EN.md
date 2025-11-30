@@ -121,7 +121,7 @@ In Colab, you can install additional packages, for example:
 
    - Open the **Files** panel (folder icon on the left).
    - Create a `data` folder (for cleanliness).
-   - Upload the CSV file (e.g. `sample_tree_pointcloud.csv`) into that folder.
+   - Upload the CSV file (e.g. `Exemple_tree.csv`) into that folder.
    - Adjust the path in the notebook, for example:
      ```python
      data_path = "/content/data/sample_tree_pointcloud.csv"
