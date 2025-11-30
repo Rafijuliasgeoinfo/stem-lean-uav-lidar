@@ -25,7 +25,7 @@ Struktur folder yang disarankan:
 .
 ├── STEM_LEAN_LIDAR.ipynb          # notebook utama (Google Colab)
 ├── data/
-│   └── sample_tree_pointcloud.csv # data contoh point cloud (format CSV)
+│   └── Exemple_tree.csv # data contoh point cloud (format CSV)
 └── README.md                      # file ini
 ```
 
@@ -52,7 +52,7 @@ Contoh baris data:
 File CSV contoh disarankan diberi nama:
 
 ```text
-data/sample_tree_pointcloud.csv
+data/Exemple_tree.csv
 ```
 
 Dengan adanya kolom `tree_id`, notebook dapat memproses **setiap pohon** secara terpisah (per-tree processing), menghitung sumbu batang, lean angle, dan azimuth untuk masing-masing pohon.
@@ -116,7 +116,7 @@ Instalasi pustaka tambahan di Colab dapat dilakukan, misalnya:
 
    - Buka panel **Files** (ikon folder di kiri Colab).
    - Buat folder `data` (untuk kerapian).
-   - Upload file CSV (mis. `sample_tree_pointcloud.csv`) ke dalam folder tersebut.
+   - Upload file CSV (mis. `Exemple_tree.csv`) ke dalam folder tersebut.
    - Sesuaikan path di notebook, misalnya:
      ```python
      data_path = "/content/data/sample_tree_pointcloud.csv"
