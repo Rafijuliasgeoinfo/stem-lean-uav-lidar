@@ -56,7 +56,7 @@ Example rows:
 Recommended example file name:
 
 ```text
-data/sample_tree_pointcloud.csv
+data/Exemple_tree.csv
 ```
 
 With the `tree_id` column, the notebook can process **each tree separately** (per-tree processing), estimate the stem axis, and compute lean angle and azimuth for every tree.
