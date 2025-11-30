@@ -26,7 +26,7 @@ Suggested folder structure:
 .
 ├── STEM_LEAN_LIDAR.ipynb          # main notebook (Google Colab)
 ├── data/
-│   └── sample_tree_pointcloud.csv # example point cloud data (CSV format)
+│   └── Exemple_tree.csv # example point cloud data (CSV format)
 └── README.md                      # main description (may be in Indonesian)
 └── README_EN.md                   # this English description
 ```
