@@ -179,6 +179,8 @@ The notebook can be extended to:
 
 ## 📜 License
 
+This repository is released under the [MIT License](LICENSE).
+
 You may use this script and repository structure for:
 
 - Research
