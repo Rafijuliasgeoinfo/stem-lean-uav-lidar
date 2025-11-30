@@ -174,6 +174,8 @@ Notebook ini dapat dikembangkan lebih lanjut, misalnya untuk:
 
 ## 📜 Lisensi
 
+Repositori ini dirilis dengan lisensi [MIT](LICENSE)
+
 Script dan struktur repo ini dapat digunakan untuk:
 
 - Penelitian
